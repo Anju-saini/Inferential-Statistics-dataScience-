@@ -4,51 +4,13 @@ A physiotherapist with a male football team is interested in studying the relati
 
  
 
-Striker
+                         Striker    Forward    Attacking Midfielder  Winger    Total 
+                         
+Players Injured           45          56              24               20       145
 
-Forward
+Players Not Injured       32          38              11                9        90
 
-Attacking Midfielder
-
-Winger
-
-Total
-
-Players Injured
-
-45
-
-56
-
-24
-
-20
-
-145
-
-Players Not Injured
-
-32
-
-38
-
-11
-
-9
-
-90
-
-Total
-
-77
-
-94
-
-35
-
-29
-
-235
+Total                    77          94               35               29        235
 
 Based on the above data, answer the following questions.
 
